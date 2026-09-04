@@ -1,17 +1,17 @@
-👋 Hi, I'm Sukuru
+# 👋 Hi, I'm Sukuru
 
-🎮 Educational Game Developer
+## 🎮 Educational Game Developer
 
 I develop educational games and interactive learning tools for students.
 
-🚀 About Me
+# 🚀 About Me
 
 - 🎮 Creating educational games
 - 💻 Developing interactive web-based learning tools
 - 🌱 Building projects for students and education
 - 🚀 Learning, creating, and improving
 
-🎯 Projects
+# 🎯 Projects
 
 Some of my projects include:
 
@@ -20,7 +20,7 @@ Some of my projects include:
 - ⚡ Electrical Circuit Game
 - 🧮 Place Value & Math Learning Games
 
-💻 Tech Stack
+# 💻 Tech Stack
 
 - HTML
 - CSS
@@ -29,4 +29,4 @@ Some of my projects include:
 
 ---
 
-Sukuru — Learning through play.
+### Sukuru — Learning through play.
