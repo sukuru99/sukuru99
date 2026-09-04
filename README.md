@@ -27,4 +27,4 @@ Some of my projects include:
 
 ---
 
-### Sukuru — Learning through play.
+### Sukuru - Learning through game.
