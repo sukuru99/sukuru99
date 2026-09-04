@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Sukuru 👋
 
-<!--
-**sukuru99/sukuru99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Educational Game Developer
 
-Here are some ideas to get you started:
+I develop educational games and interactive learning tools for students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- 🎮 Creating educational games
+- 💻 Developing interactive web-based learning tools
+- 🌱 Building projects for students and education
+- 🚀 Learning, creating, and improving
+
+Projects
+
+Some of my projects include:
+
+- 🌍 Solar System Game
+- 🗺️ Iran Provinces Game
+- ⚡ Electrical Circuit Game
+- 🧮 Place Value & Math Learning Games
+
+Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- JSON
+
+---
+
+Sukuru — Learning through play.
