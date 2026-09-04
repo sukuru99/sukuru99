@@ -27,4 +27,4 @@ Some of my projects include:
 
 ---
 
-### Sukuru - Learning through game.
+### Sukuru's purpose => Learning through games.
